@@ -1,6 +1,6 @@
 ## Hi there, I'm Bjordi! 👋
 
-Junior at Wentworth Institute of Technology, studying Computer Science
+Senior at Wentworth Institute of Technology, studying Computer Science
 
 Languages: Python, Java, C++, C#
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow
